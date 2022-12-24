@@ -94,7 +94,7 @@
 
 ### 类图
 
-![Class Diagram.drawio](https://github.com/Sautoy/ItemExchange2.0/blob/main/img-folder/Class%20Diagram.drawio.png)
+![Class Diagram.drawio](https://github.com/Sautoy/ItemExchange2.0/blob/main/img-folder/Class%20Diagram.png)
 
 
 
