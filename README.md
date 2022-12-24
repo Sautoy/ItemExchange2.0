@@ -33,7 +33,7 @@
 
 #### 用例图
 
-![UseCaseDiagram](https://github.com/Sautoy/ItemExchange2.0/tree/main/img-folder/UseCaseDiagram.png)
+![UseCaseDiagram](https://github.com/Sautoy/ItemExchange2.0/blob/main/img-folder/UseCaseDiagram.png)
 
 #### 用例描述
 
@@ -94,17 +94,17 @@
 
 ### 类图
 
-![Class Diagram.drawio](https://github.com/Sautoy/ItemExchange2.0/tree/main/img-folder/Class Diagram.drawio.png)
+![Class Diagram.drawio](https://github.com/Sautoy/ItemExchange2.0/blob/main/img-folder/Class%20Diagram.drawio.png)
 
 
 
 ### 顺序图
 
-![Sequence Diagram 1](https://github.com/Sautoy/ItemExchange2.0/tree/main/img-folder/Sequence Diagram 1.png)
+![Sequence Diagram 1](https://github.com/Sautoy/ItemExchange2.0/blob/main/img-folder/Sequence%20Diagram%201.png)
 
-![Sequence Diagram 2](https://github.com/Sautoy/ItemExchange2.0/tree/main/img-folder/Sequence Diagram 2.png)
+![Sequence Diagram 2](https://github.com/Sautoy/ItemExchange2.0/blob/main/img-folder/Sequence%20Diagram%202.png)
 
-![Sequence Diagram 3](https://github.com/Sautoy/ItemExchange2.0/tree/main/img-folder/Sequence Diagram 3.png)
+![Sequence Diagram 3](https://github.com/Sautoy/ItemExchange2.0/blob/main/img-folder/Sequence%20Diagram%203.png)
 
 
 
