@@ -33,7 +33,7 @@
 
 #### 用例图
 
-![UseCaseDiagram](C:\Users\Berlin\Desktop\software engineering\UseCaseDiagram.png)
+![UseCaseDiagram](\UseCaseDiagram.png)
 
 #### 用例描述
 
@@ -94,19 +94,17 @@
 
 ### 类图
 
-![Class Diagram.drawio](C:\Users\Berlin\Desktop\software engineering\Class Diagram.drawio.png)
+![Class Diagram.drawio](\Class Diagram.drawio.png)
 
 
 
 ### 顺序图
 
-![Sequence Diagram 1](C:\Users\Berlin\Desktop\software engineering\Sequence Diagram 1.png)
+![Sequence Diagram 1](\Sequence Diagram 1.png)
 
-![Sequence Diagram 2](C:\Users\Berlin\Desktop\software engineering\Sequence Diagram 2.png)
+![Sequence Diagram 2](\Sequence Diagram 2.png)
 
-
-
-![Sequence Diagram 3](C:\Users\Berlin\Desktop\software engineering\Sequence Diagram 3.png)
+![Sequence Diagram 3](\Sequence Diagram 3.png)
 
 
 
